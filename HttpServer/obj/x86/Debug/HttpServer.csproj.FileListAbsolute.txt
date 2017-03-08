@@ -1,0 +1,11 @@
+G:\Project\test\httplistener\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+G:\Project\test\httplistener\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+G:\Project\test\httplistener\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+G:\Project\test\httplistener\HttpServer\HttpServer\bin\Debug\System.Net.Http.dll
+G:\Project\test\httplistener\HttpServer\HttpServer\bin\Debug\System.Net.Http.xml
+G:\Project\test\httplistener\HttpServer\HttpServer\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+G:\Project\test\httplistener\HttpServer\HttpServer\obj\x86\Debug\HttpServer.exe
+G:\Project\test\httplistener\HttpServer\HttpServer\obj\x86\Debug\HttpServer.pdb
+G:\Project\test\httpserver\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+G:\Project\test\httpserver\HttpServer\HttpServer\obj\x86\Debug\HttpServer.exe
+G:\Project\test\httpserver\HttpServer\HttpServer\obj\x86\Debug\HttpServer.pdb
